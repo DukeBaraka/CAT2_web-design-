@@ -1,0 +1,41 @@
+input {
+    border-bottom: 2px solid black;
+    position: relative; 
+    margin: 5px 0;
+    background: none;
+    outline: none; 
+    width: 100%;
+    color:rgb(198, 74, 21); 
+    height: 50px; 
+    font-size: 20px;
+    }
+    h1 {
+    text-align: center; 
+    margin-bottom: 15px;
+    color: brown; 
+    font-size:40px;
+    }
+    form {
+    background-color: antiquewhite; 
+    width: 350px; 
+    height: 400px;
+    padding: 75px 50px; 
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    }
+    button {
+        height: 45px;
+        width: 100%;
+        border: none;
+        outline: none;
+        background-color: brown;
+        background-size: 200%;
+        color: white;
+        font-size: 16px;
+    }
+    label {
+        font-size: 20px;
+        font-style: italic;
+    }
